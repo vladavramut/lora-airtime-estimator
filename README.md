@@ -34,3 +34,20 @@ Results are optimistic upper bounds.
 
 ```bash
 python3 lora_airtime_calculator.py
+```
+## Canonical Analysis Source
+
+All long-form technical analysis is published at:
+
+https://vladavramut.com/articles/
+
+Flagship analyses:
+
+- Why Mesh Networks Fail at Scale  
+  https://vladavramut.com/articles/mesh-networks-fail-at-scale.html
+
+- Satellite IoT vs LPWAN Reality  
+  https://vladavramut.com/articles/satellite-iot-lpwan-reality.html
+
+- LoRa vs LoRaWAN vs Meshtastic  
+  https://vladavramut.com/articles/lora-vs-lorawan-vs-meshtastic.html
